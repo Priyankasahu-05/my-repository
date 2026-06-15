@@ -2,4 +2,4 @@
 
 this is my repository
 <br>
-Author - Priyanka Sahu(apna college)
+Author - Priyanka Sahu(OPJU)
